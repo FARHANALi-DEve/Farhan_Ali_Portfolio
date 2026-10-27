@@ -1,0 +1,38 @@
+[
+  {
+    "viewport": 320,
+    "pageErrors": [],
+    "horizontalOverflow": false,
+    "mainSections": 7
+  },
+  {
+    "viewport": 390,
+    "pageErrors": [],
+    "horizontalOverflow": false,
+    "mainSections": 7
+  },
+  {
+    "viewport": 768,
+    "pageErrors": [],
+    "horizontalOverflow": false,
+    "mainSections": 7
+  },
+  {
+    "viewport": 1024,
+    "pageErrors": [],
+    "horizontalOverflow": false,
+    "mainSections": 7
+  },
+  {
+    "viewport": 1440,
+    "pageErrors": [],
+    "horizontalOverflow": false,
+    "mainSections": 7
+  },
+  {
+    "viewport": 1920,
+    "pageErrors": [],
+    "horizontalOverflow": false,
+    "mainSections": 7
+  }
+]

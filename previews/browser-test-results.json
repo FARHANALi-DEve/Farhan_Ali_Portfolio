@@ -1,0 +1,104 @@
+[
+  {
+    "label": "desktop",
+    "info": {
+      "title": "Farhan Ali \u2014 Digital Architect & Developer",
+      "h1": "Building whatcomes next.",
+      "images": [
+        {
+          "ok": true,
+          "src": "Farhan Ali in a professional suit"
+        },
+        {
+          "ok": true,
+          "src": "Farhan Ali in a gray suit"
+        },
+        {
+          "ok": true,
+          "src": "Farhan Ali working at a desk"
+        },
+        {
+          "ok": true,
+          "src": "Farhan Ali working on a laptop"
+        },
+        {
+          "ok": true,
+          "src": "Farhan Ali at a developer workspace"
+        },
+        {
+          "ok": true,
+          "src": "Farhan Ali adjusting his tie"
+        },
+        {
+          "ok": true,
+          "src": "Portrait of Farhan Ali in a navy suit"
+        },
+        {
+          "ok": true,
+          "src": "Farhan Ali at his workspace"
+        },
+        {
+          "ok": true,
+          "src": "Farhan Ali in a formal suit"
+        }
+      ],
+      "viewport": 1440,
+      "bodyWidth": 1440,
+      "scrollHeight": 7795,
+      "canvas": true,
+      "visibleSections": 7
+    },
+    "errors": []
+  },
+  {
+    "label": "mobile",
+    "info": {
+      "title": "Farhan Ali \u2014 Digital Architect & Developer",
+      "h1": "Building whatcomes next.",
+      "images": [
+        {
+          "ok": true,
+          "src": "Farhan Ali in a professional suit"
+        },
+        {
+          "ok": true,
+          "src": "Farhan Ali in a gray suit"
+        },
+        {
+          "ok": true,
+          "src": "Farhan Ali working at a desk"
+        },
+        {
+          "ok": true,
+          "src": "Farhan Ali working on a laptop"
+        },
+        {
+          "ok": true,
+          "src": "Farhan Ali at a developer workspace"
+        },
+        {
+          "ok": true,
+          "src": "Farhan Ali adjusting his tie"
+        },
+        {
+          "ok": true,
+          "src": "Portrait of Farhan Ali in a navy suit"
+        },
+        {
+          "ok": true,
+          "src": "Farhan Ali at his workspace"
+        },
+        {
+          "ok": true,
+          "src": "Farhan Ali in a formal suit"
+        }
+      ],
+      "viewport": 390,
+      "bodyWidth": 390,
+      "scrollHeight": 10447,
+      "canvas": true,
+      "visibleSections": 7
+    },
+    "errors": []
+  }
+]
